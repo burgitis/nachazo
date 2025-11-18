@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+h1{
+    color: floralwhite;
+    text-align: center;
+}
+h3{
+    color: floralwhite;
+    text-align: center;
+}
+button {
+    object-position: 0%;
+  background-color:#EC4899;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease; 
+  box-shadow: 0 4px 10px #d12b2bb2;
+}
+
+button:hover {
+  background-color: #E0117E; 
+  box-shadow: 0 6px 15px rgba(229, 70, 70, 0.621);
+  transform: translateY(-2px); 
+}
+div{
+  align-content: center;
+}
